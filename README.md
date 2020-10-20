@@ -12,19 +12,23 @@
 
 <p align="center">
   <a href= "https://github.com/jcamilovillah/">
-    <img src="https://img.icons8.com/material-outlined/30/000000/source-code.png"/>
+    <img src="https://img.icons8.com/material-outlined/64/000000/source-code.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/jcamilovillah/">
-    <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/material-outlined/64/000000/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/jcamilovillah">
-    <img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/>
+    <img src="https://img.icons8.com/material-outlined/64/000000/twitter.png"/>
   </a>
   <a href="mailto:villahjuancamilo@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/physics.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/64/000000/physics.png"/>
   </a>
   <a href="https://medium.com/@juancamilovilla">
-    <img src="https://img.icons8.com/ios-filled/30/000000/medium-new.png"/>
+    <img src="https://img.icons8.com/ios-filled/64/000000/medium-new.png"/>
+  </a>
+  </a>
+  <a href="https://instagram.com/jcamilovillah">
+    <img src="https://img.icons8.com/windows/64/000000/instagram-new.png"/>
   </a>
 
   
