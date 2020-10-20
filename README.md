@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <img src="https://media.giphy.com/media/2ot91qrQaW4GRm7r7l/giphy.gif" alt="readme" width="700">
 
@@ -11,7 +11,7 @@
 </p>
 
 ---
-## Social media & contact 📲
+### Social media & contact 📲
 <p align="center">
   <a href= "https://github.com/jcamilovillah/">
     <img src="https://img.icons8.com/material-outlined/60/000000/source-code.png"/>
