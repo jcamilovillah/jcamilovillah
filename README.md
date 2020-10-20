@@ -1,13 +1,13 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<img src="https://media.giphy.com/media/2ot91qrQaW4GRm7r7l/giphy.gif" alt="readme" width="1000">
+<img src="https://media.giphy.com/media/2ot91qrQaW4GRm7r7l/giphy.gif" alt="readme" width="850">
 
 ---
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcamilovillah&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="jcamilovillah's github stats"/>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jcamilovillah&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilovillah&bg_color=071A2C&text_color=FFFFFF" alt="jcamilovillah's top langs"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilovillah&bg_color=071A2C&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
