@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/2ot91qrQaW4GRm7r7l/giphy.gif" alt="readme" width="700">
 
----
+
 ## My GitHub Stats 📋
 <p align='center'>
  
@@ -10,7 +10,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilovillah&bg_color=071A2C&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
----
+
 ### Social media & contact 📲
 <p align="center">
   <a href= "https://github.com/jcamilovillah/">
