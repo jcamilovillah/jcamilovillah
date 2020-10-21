@@ -11,7 +11,7 @@
 </p>
 
 
-### Social media & contact 📲
+## Social media & contact 📲
 <p align="center">
   <a href= "https://github.com/jcamilovillah/">
     <img src="https://img.icons8.com/material-outlined/60/000000/source-code.png"/>
