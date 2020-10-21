@@ -10,6 +10,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcamilovillah&bg_color=071A2C&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
+---
 
 ## Social media & contact 📲
 <p align="center">
