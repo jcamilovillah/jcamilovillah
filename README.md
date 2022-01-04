@@ -22,7 +22,7 @@
   <br>
   💡 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Spring Framework
+  📚 I’m currently learning <b>Spring Framework & Blockchain Technologies</b>
   <br>
   💬 Ask me anything about from <a href="https://github.com/jcamilovillah/jcamilovillah/issues" title="Issues">Here</a>
   <br>
