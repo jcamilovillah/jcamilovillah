@@ -14,11 +14,11 @@
   <code><a href="https://www.instagram.com/jcamilovillah" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-
+<p align="center">
   Hi, I'm Juan Camilo Villa, Software Developer from Colombia
   <br>
   <br>
-  💻 I'm currently working at [Mercado Libre](https://www.linkedin.com/company/mercadolibre/)
+  💻 I'm currently working at <a href="https://www.linkedin.com/company/mercadolibre/">Mercado Libre</a>
   <br>
   💡 I love writing code and learn anythings about it
   <br>
@@ -27,7 +27,7 @@
   💬 Ask me anything about from <a href="https://github.com/jcamilovillah/jcamilovillah/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto:villahjuancamilo@gmail.com">villahjuancamilo@gmail.com</a>
-
+</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
