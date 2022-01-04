@@ -14,7 +14,7 @@
   <code><a href="https://www.instagram.com/jcamilovillah" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
+
   Hi, I'm Juan Camilo Villa, Software Developer from Colombia
   <br>
   <br>
@@ -27,7 +27,7 @@
   💬 Ask me anything about from <a href="https://github.com/jcamilovillah/jcamilovillah/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto:villahjuancamilo@gmail.com">villahjuancamilo@gmail.com</a>
-</p>
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
