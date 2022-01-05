@@ -34,6 +34,7 @@
 <br>
 <p align="center">
   <code><img title="C" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/c.svg"></code>
+  <code><img title="Java" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/java-original.svg"></code>
   <code><img title="Python" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png?raw=true"></code>
   <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png?raw=true"></code>
@@ -47,7 +48,6 @@
   <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
   <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/json.svg"></code>
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/mysql.svg"></code>
