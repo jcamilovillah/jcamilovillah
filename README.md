@@ -54,7 +54,7 @@
   <code><img title="Bash" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></code>
   <code><img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
   <code><img title="Docker" height="25" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-  <code><img title="Docker" height="25" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png"></code>
+  <code><img title="Kubernetes" height="25" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png"></code>
 
 </p>
 <hr>
