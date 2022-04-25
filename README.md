@@ -18,7 +18,7 @@
   Hi, I'm Juan Camilo Villa, Software Developer from Colombia
   <br>
   <br>
-  💻 I'm currently working at <a href="https://www.linkedin.com/company/mercadolibre/">Mercado Libre</a>
+  💻 I'm currently working at <a href="https://www.mercadolibre.com.co/institucional/">Mercado Libre</a>
   <br>
   💡 I love writing code and learn anythings about it
   <br>
